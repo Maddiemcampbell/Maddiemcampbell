@@ -15,6 +15,6 @@ My dedication to learning has driven my success in a myriad of specialties. Desi
 
 
 ## Find me around the web 🌎:
-- Learning in public on <a href="https://twitter.com/maddiexcampbell">Twitter</a> or <a href="https://madelinecampbell.dev">madelinecampbell.dev</a>
+- Learning in public on <a target="_blank" href="https://twitter.com/maddiexcampbell">Twitter</a> or <a target="_blank" href="https://madelinecampbell.dev">madelinecampbell.dev</a>
 <!-- - Tinkering with interactions on <a href=""> Codepen</a> 🏓 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/madelinemcampbell/">LinkedIn</a> 💼
+- Sharing updates on <a target="_blank" href="https://www.linkedin.com/in/madelinemcampbell/">LinkedIn</a> 💼
