@@ -6,7 +6,7 @@ My dedication to learning has driven my success in a myriad of specialties. Desi
 <br></br>
 
 - 🔭 I’m currently working a SaaS AI Platform with Next.js 13, Tailwind, and Stripe
-- 🌱 I’m currently learning Python and LLMs
+- 🌱 Find me in a coffee shop learning about Python and LLMs
 - 💬 Ask me about accessibility and disability advocacy in tech
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lived outside in a hammock for three months on a mountain
