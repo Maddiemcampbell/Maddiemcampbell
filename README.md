@@ -1,6 +1,6 @@
 # Hi, I'm Madeline (or Maddie!)
 
-- 🥞 Tech Stack - Javascript, Node, Python, AWS
+- 🥞 Tech Stack: Javascript, Node, Python, AWS
 - 🔭 Current Project: SaaS AI Platform with Next.js 13, Tailwind, and Stripe
 - 👩🏻‍💻 Where to find me: in a coffee shop learning about Python and LLMs
 - 💬 Ask me about: accessibility and disability advocacy in tech
