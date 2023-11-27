@@ -1,7 +1,7 @@
 # Hi, I'm Madeline (or Maddie!)
 
 - 🥞 Tech Stack: Javascript, Node, Python, AWS
-- 🔭 Current Project: SaaS AI Platform with Next.js 13, Tailwind, and Stripe
+- 🔭 Current Project: KPI Dashboard utilizing ML to predict revenue
 - 👩🏻‍💻 Where to find me: in a coffee shop learning about Python and LLMs
 - 💬 Ask me about: accessibility and disability advocacy in tech
 - 😄 Pronouns: she/her
