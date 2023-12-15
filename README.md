@@ -7,7 +7,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I lived outside in a hammock for three months on a mountain
 - 📖 Reading: What's Eating the Universe? - and other cosmic questions by Paul Davies
-- 🐶 My best friend: Truff aka Lil Rito
+- 🐶 My best friend: Truff
 
 
 ## Find me around the web 🌎:
